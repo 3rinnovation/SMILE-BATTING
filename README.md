@@ -2,7 +2,7 @@
 
 두 사람이 카메라 앞에 나란히 앉아, **먼저 웃음이 터진 쪽이 지는** 2인 대결 웹게임입니다.
 
-▶️ **[플레이하기](https://kimyebin726.github.io/SMILE-BATTING/)**
+▶️ **[플레이하기](https://3rinnovation.github.io/SMILE-BATTING/)**
 
 세로 화면(460×940 기준)에 맞춰 설계되어 있어 모바일에서 가장 잘 동작합니다.
 
